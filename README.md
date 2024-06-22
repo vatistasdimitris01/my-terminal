@@ -1,1 +1,1 @@
-(website)[https://vatistasdimitris01.github.io/my-terminal/]
+[website](https://vatistasdimitris01.github.io/my-terminal/)
